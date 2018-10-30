@@ -1,7 +1,7 @@
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
 
-public class Skizze
+class Skizze
 {
     // Es soll drei Bälle geben
     Ball ball1;  
