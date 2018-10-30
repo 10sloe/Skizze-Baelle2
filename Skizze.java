@@ -8,7 +8,7 @@ public class Skizze
     Ball ball2;
     Ball ball3;   
     
-    public Skizze()
+    Skizze()
     {
         // Hier werden die drei Ballobjekte erzeugt
         ball1 = new Ball(100,100,2, Color.RED); 
